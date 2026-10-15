@@ -90,8 +90,9 @@ Matching pipeline powering a Chrome extension workflow for role fit.
 <summary><strong>Also building</strong> (private — ask if you'd like a walkthrough)</summary>
 <br/>
 
-- **Mia Voice Task App** — Flutter shell with voice intents, tasks, and a multi-source calendar
+- **Mia Voice Task App** — Flutter shell with voice intents, tasks, theme packs, and multi-source calendar
 - **Mia Calendar Capture** — Chrome MV3 extension that pastes/scrapes invites into Firestore
+- **Mia Task Capture** — Chrome MV3 extension that pastes/selects text into structured Mia tasks
 
 </details>
 
