@@ -114,10 +114,12 @@ The matching engine behind a Chrome extension that tells you how well you fit a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaadhiniNarayanaKumar&show_icons=true&theme=transparent&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=334155&bg_color=00000000" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaadhiniNarayanaKumar&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=334155&bg_color=00000000" height="165" alt="languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaadhiniNarayanaKumar&theme=transparent" width="100%" alt="contribution chart" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaadhiniNarayanaKumar&bg_color=00000000&color=334155&line=0F766E&point=0F172A&area=true&area_color=0F766E&hide_border=true&title_color=0F766E" width="100%" alt="contribution chart" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaadhiniNarayanaKumar&theme=transparent" height="165" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaadhiniNarayanaKumar&theme=transparent" height="165" alt="languages" />
+
+<img src="https://streak-stats.demolab.com/?user=MaadhiniNarayanaKumar&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" height="165" alt="streak" />
 
 <sub>Yes, my commit history is a time series. Yes, I've thought about fitting it.</sub>
 
