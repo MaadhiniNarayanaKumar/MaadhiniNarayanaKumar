@@ -2,35 +2,47 @@
   GitHub profile README — https://github.com/MaadhiniNarayanaKumar
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,100:0F766E&text=Maadhini%20Narayana%20Kumar&fontColor=F8FAFC&fontSize=40&fontAlignY=38&desc=Quant%20Finance%20%C2%B7%20AI%2FML%20%C2%B7%20Systems%20that%20learn%20from%20markets&descAlignY=60&descSize=16" width="100%" alt="header" />
+
 <div align="center">
 
-# Maadhini Narayana Kumar
+[![Portfolio](https://img.shields.io/badge/Portfolio-maadhini.com-0F172A?style=for-the-badge&labelColor=0F766E)](https://maadhini.com)
+[![Email](https://img.shields.io/badge/Email-maadhinin%40gmail.com-0F172A?style=for-the-badge&labelColor=0F766E)](mailto:maadhinin@gmail.com)
+[![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-059669?style=for-the-badge&labelColor=0F172A)](mailto:maadhinin@gmail.com)
 
-**Quantitative Finance · AI/ML · Systems that learn from markets**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-maadhini.com-0F172A?style=flat-square&labelColor=F8FAFC)](https://maadhini.com)
-[![Email](https://img.shields.io/badge/Email-maadhinin%40gmail.com-0F172A?style=flat-square&labelColor=F8FAFC)](mailto:maadhinin@gmail.com)
-[![Open to work](https://img.shields.io/badge/Status-Open%20to%20work-059669?style=flat-square&labelColor=F8FAFC)](mailto:maadhinin@gmail.com)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=0F172A&center=true&vCenter=true&width=680&lines=Markets+reflect+behavior.;Models+reveal+patterns.;I+connect+the+two." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=0F766E&center=true&vCenter=true&width=720&lines=Markets+reflect+behavior.;Models+reveal+patterns.;I+connect+the+two.;Currently+backtesting%3A+my+own+career.;No+look-ahead+bias+was+harmed+in+this+README." alt="typing" />
 
 </div>
 
----
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  $MAADHINI   ▲ M.S. Quant Finance @ Rutgers   ▲ GenAI / RAG shipped  │
+│  VOL: high curiosity   SPREAD: math ↔ production   SIGNAL: strong   │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-### About
+### `whoami`
 
-I'm Maadhini — an **M.S. Quantitative Finance** student at **Rutgers Business School**, building at the intersection of mathematics, statistics, and production AI.
+```python
+class Maadhini:
+    school   = "Rutgers Business School — M.S. Quantitative Finance"
+    past     = ["GenAI pipelines", "RAG systems", "ML infrastructure"]
+    present  = "turning that engineering depth into systematic financial research"
+    believes = "a backtest is only as honest as its data pipeline"
 
-Previously shipped GenAI pipelines, RAG systems, and ML infrastructure. Now converging that engineering depth into systematic financial research.
+    def open_to(self):
+        return ["quant research", "ML engineering", "AI × finance collabs"]
+```
 
-Currently available for **quant research**, **ML engineering**, and **AI × finance** collaborations.
+### Portfolio allocation
 
----
+| Long | Short |
+|:---|:---|
+| Reproducible backtests | Overfit models |
+| Clean, validated data | Look-ahead bias |
+| Models that ship to prod | Notebooks named `final_v7_REAL.ipynb` |
 
-### Focus areas
+### The stack
 
 | Quant & Finance | ML & AI | Cloud & MLOps |
 |:---|:---|:---|
@@ -40,7 +52,7 @@ Currently available for **quant research**, **ML engineering**, and **AI × fina
 | Time series | Feature engineering | Docker |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,gcp,postgres,git,nextjs,ts&theme=light" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker,aws,gcp,postgres,git,nextjs,ts&theme=dark" alt="skills" />
 </p>
 
 ---
@@ -52,7 +64,7 @@ Currently available for **quant research**, **ML engineering**, and **AI × fina
 <td width="50%" valign="top">
 
 #### [Distributed Market Intelligence & Quant QA](https://github.com/MaadhiniNarayanaKumar/distributed-market-intelligence-quant-qa)
-Local-first quant platform: PySpark seven-stage pipeline (validation → features → QA → signals → backtest), DuckDB history, and Spark-vs-Pandas alignment scoring.
+A local-first quant platform where Spark and Pandas have to agree before anything gets traded on. Seven-stage PySpark pipeline (validation → features → QA → signals → backtest), DuckDB history, and alignment scoring between engines.
 
 `Python` `PySpark` `FastAPI` `DuckDB`
 
@@ -60,7 +72,7 @@ Local-first quant platform: PySpark seven-stage pipeline (validation → feature
 <td width="50%" valign="top">
 
 #### [maadhini.com](https://maadhini.com)
-Personal portfolio — story, expertise, and selected research written as a product surface.
+My corner of the internet. Story, expertise, and research, designed like a product rather than a résumé.
 
 `TypeScript` `Next.js`
 
@@ -70,7 +82,7 @@ Personal portfolio — story, expertise, and selected research written as a prod
 <td width="50%" valign="top">
 
 #### [Interview Assistant](https://github.com/MaadhiniNarayanaKumar/interview_assisstant)
-AI-assisted interview practice tooling.
+An AI sparring partner for interview practice, so the real thing feels like round two.
 
 `Python`
 
@@ -78,7 +90,7 @@ AI-assisted interview practice tooling.
 <td width="50%" valign="top">
 
 #### [AI Job Match (backend)](https://github.com/MaadhiniNarayanaKumar/ai_job_match_chrome_extension_backend)
-Matching pipeline powering a Chrome extension workflow for role fit.
+The matching engine behind a Chrome extension that tells you how well you fit a role before you hit apply.
 
 `Python`
 
@@ -87,23 +99,27 @@ Matching pipeline powering a Chrome extension workflow for role fit.
 </table>
 
 <details>
-<summary><strong>Also building</strong> (private — ask if you'd like a walkthrough)</summary>
+<summary><strong>Also cooking</strong> (private — ask for a walkthrough)</summary>
 <br/>
 
-- **Mia Voice Task App** — Flutter shell with voice intents, tasks, theme packs, and multi-source calendar
-- **Mia Calendar Capture** — Chrome MV3 extension that pastes/scrapes invites into Firestore
-- **Mia Task Capture** — Chrome MV3 extension that pastes/selects text into structured Mia tasks
+- **Mia Voice Task App** — Flutter app with voice intents, tasks, theme packs, and a multi-source calendar
+- **Mia Calendar Capture** — Chrome MV3 extension that pastes/scrapes invites straight into Firestore
+- **Mia Task Capture** — Chrome MV3 extension that turns any selected text into a structured Mia task
 
 </details>
 
 ---
 
-### Snapshot
+### Market data
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaadhiniNarayanaKumar&show_icons=true&theme=transparent&hide_border=true&title_color=0F172A&icon_color=0F766E&text_color=334155&bg_color=00000000" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaadhiniNarayanaKumar&layout=compact&theme=transparent&hide_border=true&title_color=0F172A&text_color=334155&bg_color=00000000" height="165" alt="languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=MaadhiniNarayanaKumar&show_icons=true&theme=transparent&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=334155&bg_color=00000000" height="165" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaadhiniNarayanaKumar&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=334155&bg_color=00000000" height="165" alt="languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaadhiniNarayanaKumar&bg_color=00000000&color=334155&line=0F766E&point=0F172A&area=true&area_color=0F766E&hide_border=true&title_color=0F766E" width="100%" alt="contribution chart" />
+
+<sub>Yes, my commit history is a time series. Yes, I've thought about fitting it.</sub>
 
 </div>
 
@@ -118,3 +134,5 @@ Quant roles · research collaborations · AI × finance problems
 [maadhini.com](https://maadhini.com) · [maadhinin@gmail.com](mailto:maadhinin@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0F766E,100:0F172A" width="100%" alt="footer" />
