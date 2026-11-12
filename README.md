@@ -79,13 +79,4 @@
 > 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas in cloud computing.._
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jattu8602&" alt="jattu8602" /></p>
-
-
-## 🧠 Neural Activity Vitals
-
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jattu8602&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
-</div>
 
