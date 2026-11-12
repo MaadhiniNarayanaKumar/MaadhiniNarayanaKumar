@@ -75,18 +75,27 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MaadhiniNarayanaKumar/MaadhiniNarayanaKumar/output/pacman-contribution-graph.svg">
 </picture>
 
-##
-> 💬 _Always open to conversations about markets, models, and the messy data in between._
+## 🛠️ Tech Stack & Tools
 
-<!-- ## 📊 Market Data (a.k.a. GitHub Stats)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+##
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jattu8602/jattu8602/output/pacman-contribution-graph.svg">
+</picture>
+
+##
+> 💬 _Always open to meaningful conversations, tech collaboration, and exploring new ideas in cloud computing.._
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jattu8602&" alt="jattu8602" /></p>
+
+
+## 🧠 Neural Activity Vitals
+
 
 <div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jattu8602&theme=dracula&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaadhiniNarayanaKumar&theme=transparent" width="100%" alt="contribution chart" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaadhiniNarayanaKumar&theme=transparent" height="165" alt="stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaadhiniNarayanaKumar&theme=transparent" height="165" alt="languages" />
-
-<img src="https://streak-stats.demolab.com/?user=MaadhiniNarayanaKumar&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" height="165" alt="streak" />
-
-</div> -->
