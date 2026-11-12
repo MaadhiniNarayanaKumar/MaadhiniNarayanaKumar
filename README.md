@@ -43,13 +43,6 @@
 | <a href="https://github.com/MaadhiniNarayanaKumar/ai_job_match_chrome_extension"><img src="https://opengraph.githubassets.com/1/MaadhiniNarayanaKumar/ai_job_match_chrome_extension" width="90"></a> | **AI Job Match** | Chrome side panel that scores a job page against your resume, backed by a Python matching service. | [Extension](https://github.com/MaadhiniNarayanaKumar/ai_job_match_chrome_extension) <br/> [Backend](https://github.com/MaadhiniNarayanaKumar/ai_job_match_chrome_extension_backend) |
 | <a href="https://github.com/MaadhiniNarayanaKumar/interview_assisstant"><img src="https://opengraph.githubassets.com/1/MaadhiniNarayanaKumar/interview_assisstant" width="90"></a> | **Interview Assistant** | AI-assisted interview practice tooling. | [Source Code](https://github.com/MaadhiniNarayanaKumar/interview_assisstant) |
 
-### 🧪 Currently Building (private, ask for a walkthrough)
-
-| Project Name | Description |
-| :--- | :--- |
-| **Mia Voice Task App** | Flutter app with voice intents, tasks, theme packs, and a multi-source calendar. |
-| **Mia Calendar Capture** | Chrome MV3 extension that pastes/scrapes invites straight into Firestore. |
-| **Mia Task Capture** | Chrome MV3 extension that turns selected text into structured Mia tasks. |
 
 ### 🧠 ML & Learning Projects
 
@@ -60,7 +53,6 @@
 | **Handwritten Digit Recognition** | Digit classification on the MNIST dataset. | [Source Code](https://github.com/MaadhiniNarayanaKumar/handwritten-digit-recognition) |
 | **PCOS Detection & Analysis** | Detection and exploratory analysis of PCOS data. | [Source Code](https://github.com/MaadhiniNarayanaKumar/pcos_detection_and_analysis) |
 | **Income Prediction Web App** | Income prediction model wrapped in a web app. | [Source Code](https://github.com/MaadhiniNarayanaKumar/income_pred_webapp) |
-| **British Airways Data Science** | Tasks from the British Airways data science virtual experience programme. | [Source Code](https://github.com/MaadhiniNarayanaKumar/British-Airways-Data-Science-virtual-experience-programme) |
 
 ## 🤝 Connect With Me
 
@@ -86,7 +78,7 @@
 ##
 > 💬 _Always open to conversations about markets, models, and the messy data in between._
 
-## 📊 Market Data (a.k.a. GitHub Stats)
+<!-- ## 📊 Market Data (a.k.a. GitHub Stats)
 
 <div align="center">
 
@@ -97,4 +89,4 @@
 
 <img src="https://streak-stats.demolab.com/?user=MaadhiniNarayanaKumar&theme=transparent&hide_border=true&ring=0F766E&fire=0F766E&currStreakLabel=0F766E" height="165" alt="streak" />
 
-</div>
+</div> -->
